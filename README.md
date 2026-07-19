@@ -58,9 +58,8 @@ This project is an interactive **Blinkit Sales Dashboard** built in **Microsoft 
 ---
 
 ## 📷 Dashboard Preview
-![image alt]
+![image alt](https://github.com/piyush95889732-jpg/Blinkit-Sales-Dashboard/blob/main/Blinkit%20Sales%20Dashboard.png?raw=true)
 
----
 
 ## 🚀 Author
 **Piyush Sharma**
